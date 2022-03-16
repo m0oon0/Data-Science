@@ -1,18 +1,25 @@
 # Data Science & Analysis
 
-### Some topics
-
-## 🚓 Geographic data
-
-## 🕊 Bias in AI
-
-## 👥 Outliers
-
-## 👀 Anomaly Detection
-repo [🖇](https://github.com/m0oon0/Anomaly-Detection)
-
-## 📈 Time Series
+### training & tuning model
+### Neural Network
 
 ---
 
-## Advanced training & tuning
+## `Some topics`
+
+### 🚓 Geographic data
+
+### 🕊 Bias in AI
+
+### 👥 Outliers
+
+### 👀 Anomaly Detection
+repo [🔗](https://github.com/m0oon0/Anomaly-Detection)
+
+### 📈 Time Series
+
+---
+
+## `Fetching data`
+
+### 🖱 Web Crawling
