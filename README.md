@@ -1,7 +1,11 @@
 # Data Science & Analysis
 
+## Some topics
 ## 🚓 Geographic data
 ## 🕊 Bias in AI
 ## 👥 Outliers
 ## 👀 Anomaly Detection
-## 🤩 making prediction
+
+---
+
+## Advanced training & tuning
