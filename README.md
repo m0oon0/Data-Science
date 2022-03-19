@@ -8,7 +8,7 @@
 ## `Some topics`
 
 ### 🌠 Dimensionality Reduction
-[📑](https://github.com/m0oon0/Data-Science/blob/main/dim/dim.md)
+dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduction/readme.md)
 
 ### 🚓 Geographic data
 
@@ -20,6 +20,7 @@
 repo [🔗](https://github.com/m0oon0/Anomaly-Detection)
 
 ### 📈 Time Series
+dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Time-Series/readme.md)
 
 ---
 
