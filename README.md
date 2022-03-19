@@ -7,6 +7,8 @@
 
 ## `Some topics`
 
+### 🌠 Dimensionality Reduction
+
 ### 🚓 Geographic data
 
 ### 🕊 Bias in AI
