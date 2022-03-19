@@ -8,6 +8,7 @@
 ## `Some topics`
 
 ### 🌠 Dimensionality Reduction
+[📑](https://github.com/m0oon0/Data-Science/blob/main/dim/dim.md)
 
 ### 🚓 Geographic data
 
