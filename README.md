@@ -16,14 +16,18 @@ dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduc
 
 ### 👥 Outliers
 
+### 📈 Time Series
+dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Time-Series/readme.md)
+
 ### 👀 Anomaly Detection
 repo [🔗](https://github.com/m0oon0/Anomaly-Detection)
 
-### 📈 Time Series
-dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Time-Series/readme.md)
+### 📇 Process Mining
+repo [🔗](https://github.com/m0oon0/Process-Mining)
 
 ---
 
 ## `Fetching data`
 
 ### 🖱 Web Crawling
+
