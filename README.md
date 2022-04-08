@@ -1,9 +1,5 @@
 # Data Science & Analysis
 
-### training & tuning model
-### Neural Network
-
----
 
 ## `Some topics`
 
@@ -31,3 +27,8 @@ repo [🔗](https://github.com/m0oon0/Process-Mining)
 
 ### 🖱 Web Crawling
 
+## `Handling data`
+
+---
+
+## `model`
