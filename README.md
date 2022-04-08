@@ -1,7 +1,7 @@
 # Data Science & Analysis
 
 
-## `Some topics`
+## Some topics
 
 ### 🌠 Dimensionality Reduction
 dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduction/readme.md)
@@ -23,12 +23,12 @@ repo [🔗](https://github.com/m0oon0/Process-Mining)
 
 ---
 
-## `Fetching data`
+## Fetching data
 
 ### 🖱 Web Crawling
 
-## `Handling data`
+## Handling data
 
 ---
 
-## `model`
+## model
