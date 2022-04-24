@@ -25,9 +25,11 @@ repo [🔗](https://github.com/m0oon0/Process-Mining)
 
 ---
 
-## Fetching data
+## Data Mining
 
-### 🖱 Web Crawling
+|||
+|---|---|
+|Web Scraping|📁|
 
 ## Handling data
 
