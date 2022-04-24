@@ -13,6 +13,8 @@ dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduc
 ### 👥 Outliers
 
 ### 📈 Time Series
+study 
+
 dir [📑](https://github.com/m0oon0/Data-Science/blob/main/Time-Series/readme.md)
 
 ### 👀 Anomaly Detection
