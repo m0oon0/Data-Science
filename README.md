@@ -32,3 +32,9 @@ repo [🔗](https://github.com/m0oon0/Process-Mining)
 ---
 
 ## model
+
+|---|---|
+|XgBoost||
+|LightGBM||
+|TabNet|🔗|
+
