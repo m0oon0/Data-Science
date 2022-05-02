@@ -35,3 +35,10 @@
 |LightGBM||
 |TabNet|🔗|
 
+## Studies from scratch with Pytorch
+
+regression to neural network 📑  
+
+## Pipeline : MLops
+
+
