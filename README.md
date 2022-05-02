@@ -28,13 +28,9 @@
 
 ---
 
-## models
+## machine learning models & paper review
 
-|||
-|---|---|
-|XgBoost||
-|LightGBM||
-|TabNet|🔗|
+🔗
 
 ## Studies from scratch with Pytorch
 
