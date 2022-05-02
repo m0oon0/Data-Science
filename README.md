@@ -1,7 +1,7 @@
 # Data Science & Analysis
 
 
-## Some topics
+## Topics interested in
 
 ### Geographic data 🚓
 
