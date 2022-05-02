@@ -22,6 +22,7 @@
 |||
 |---|---|
 |Web Scraping|📁|
+|Text Mining||
 
 ## Handling data
 
