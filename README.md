@@ -17,17 +17,17 @@
 
 ---
 
-## Data Mining
+## 🔦 Data Mining
 
 |||
 |---|---|
 |Web Scraping|📁|
 |Text Mining||
 
-## Handling data
+## ⚙ Handling data
 
 ---
-## Technical Issues featured
+## ❗ Technical Issues featured
 
 My blog post [🔗]()
 
