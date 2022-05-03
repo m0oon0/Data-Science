@@ -30,12 +30,14 @@
 
 ## machine learning models & paper review
 
-🔗
+[📰](https://github.com/m0oon0/Data-Science/blob/main/models.md)
 
-## Studies from scratch with Pytorch
+## Studies
+
+### ML
 
 regression to neural network 📑  
 
-## Pipeline : MLops
+### Pipeline : MLops
 
 
