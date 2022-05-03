@@ -27,6 +27,11 @@
 ## Handling data
 
 ---
+## Technical Issues featured
+
+My blog post [🔗]()
+
+---
 
 ## machine learning models & paper review
 
