@@ -4,8 +4,11 @@ Machine Learning models
 |---|---|---|---|
 |XgBoost||||
 |LightGBM||||
+|CatBoost||||
 
 Deep Neural Network 
 |model|paper|review|code|
 |---|---|---|---|
 |TabNet||||
+|AutoML||||
+|Prophet||||
