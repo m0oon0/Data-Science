@@ -7,6 +7,8 @@
 
 ### Time Series 📈
 
+### Cluster 💫
+
 ### Anomaly Detection [⚠](https://github.com/m0oon0/Anomaly-Detection)
 
 ### Bias in AI 🕊
