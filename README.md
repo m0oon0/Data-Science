@@ -3,13 +3,11 @@
 
 ## Topics interested in
 
-### Time Series 📈
-
 ### Dimensionality Reduction [🌠](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduction/readme.md)
 
 ### Cluster 💫
 
-### Metric Learning 
+### AutoML & Metric Learning 
 
 ### Anomaly Detection [⚠](https://github.com/m0oon0/Anomaly-Detection)
 
@@ -27,28 +25,30 @@
 
 |||
 |---|---|
-|Web Scraping|📁|
+|Web Crawling|📁|
 |Text Mining||
 
-## ⚙ Handling data
+## 🏆 Data Projects
 
 ---
-## ❗ Technical Issues featured
+## ❗ Technical Issues
 
 My blog post [🔗]()
 
 ---
 
-## machine learning models & paper review
+## machine learning & deep learning models & paper review
 
 [📰](https://github.com/m0oon0/Data-Science/blob/main/models.md)
 
 ## Studies
 
-### ML
+### ML Intuitions
 
-regression to neural network 📑  
+from stats to neural network 📑
 
 ### Pipeline : MLops
+
+### Time Series
 
 
