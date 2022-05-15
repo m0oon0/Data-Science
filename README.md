@@ -3,9 +3,9 @@
 
 ## Topics interested in
 
-### Geographic data 🚓
-
 ### Time Series 📈
+
+### Dimensionality Reduction [🌠](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduction/readme.md)
 
 ### Cluster 💫
 
@@ -15,7 +15,9 @@
 
 ### Bias in AI 🕊
 
-### Dimensionality Reduction [🌠](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduction/readme.md)
+### Humane AI
+
+### Geographic data 🚓
 
 ### Process Mining [📇](https://github.com/m0oon0/Process-Mining)
 
