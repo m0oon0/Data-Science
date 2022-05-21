@@ -13,9 +13,9 @@
 
 ### Bias in AI 🕊
 
-### Humane AI
-
 ### Geographic data 🚓
+
+### Graph Neural Network
 
 ### Process Mining [📇](https://github.com/m0oon0/Process-Mining)
 
