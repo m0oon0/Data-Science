@@ -13,7 +13,7 @@
 
 ### Bias in AI 🕊
 
-### Geographic data 🚓
+### Geospatial data 🚓
 
 ### Graph Neural Network
 
@@ -25,8 +25,8 @@
 
 |||
 |---|---|
-|Web Crawling|📁|
-|Text Mining||
+|Web Crawling|[📁]()|
+|Text Mining|[📁]()|
 
 ## 🏆 Data Projects
 
@@ -37,7 +37,7 @@ My blog post [🔗]()
 
 ---
 
-## machine learning & deep learning models & paper review
+## machine learning & deep learning models + paper review
 
 [📰](https://github.com/m0oon0/Data-Science/blob/main/models.md)
 
