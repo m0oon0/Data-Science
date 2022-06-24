@@ -1,3 +1,11 @@
+### bias in pretrained models
+
+||||
+|---|---|---|
+|BERT|||
+|GPT|||
+|CLIP|||
+
 ### Data Ethics
 
 |topic|||
