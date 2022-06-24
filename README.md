@@ -5,15 +5,15 @@
 
 ### AutoML & Metric Learning 
 
-### Bias in AI 🕊
+### 🕊 AI Ethics
 
 ### Graph Neural Network
 
-### Data Visualization
+### 👀 Data Visualization
 
-### Geospatial data 🚓
+### 🚓 Geospatial data
 
-### Process Mining [📇](https://github.com/m0oon0/Process-Mining)
+### Process Mining 
 
 ---
 
