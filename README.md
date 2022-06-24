@@ -5,15 +5,9 @@
 
 ### AutoML & Metric Learning 
 
-### Anomaly Detection [⚠](https://github.com/m0oon0/Anomaly-Detection)
-
 ### Bias in AI 🕊
 
 ### Graph Neural Network
-
-### Dimensionality Reduction [🌠](https://github.com/m0oon0/Data-Science/blob/main/Dimensionality-Reduction/readme.md)
-
-### Cluster 💫
 
 ### Data Visualization
 
