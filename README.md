@@ -27,24 +27,17 @@
 ## 🏆 Data Projects
 
 ---
-## ❗ Technical Issues
-
-My blog post [🔗]()
-
----
-
-## machine learning & deep learning models + paper review
-
-[📰](https://github.com/m0oon0/Data-Science/blob/main/models.md)
 
 ## Studies
 
-### ML Intuitions
+### ML Ops
+### Insights 
 
-from stats to neural network 📑
+---
 
-### Pipeline : MLops
+## Paper reviews on Deep Learning
 
-### Time Series
+[📰](https://github.com/m0oon0/Data-Science/blob/main/models.md)
+
 
 
