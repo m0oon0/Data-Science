@@ -30,7 +30,7 @@ In many-output models, y is acting like the output of the decoder model as well 
 ### Sequence loss function
 
 Sum of cross-entropy loss from all sequence
-
+ 
 ### Sequence input problems
 
 \- All the information in the input sequence is condensed into one hidden state vector.  
