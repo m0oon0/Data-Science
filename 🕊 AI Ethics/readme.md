@@ -1,3 +1,5 @@
+2022.07 ~ 2022.08
+
 ### bias in pretrained models
 
 ||||
