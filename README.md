@@ -18,7 +18,7 @@
 |||
 |---|---|
 |Web Crawling|[📁](https://github.com/m0oon0/Data-Science/tree/main/%F0%9F%93%87%20Web%20Crawling)|
-|Text Mining|[📁]()|
+|Lyrics Mining Project|[🎵]()|
 
 ## 🏆 Data Projects
 
