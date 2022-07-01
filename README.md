@@ -18,9 +18,12 @@
 |||
 |---|---|
 |Web Crawling|[📁](https://github.com/m0oon0/Data-Science/tree/main/%F0%9F%93%87%20Web%20Crawling)|
-|Lyrics Mining Project|[🎵]()|
+|Lyrics Mining|[🎵](https://github.com/m0oon0/Data-Science/tree/main/%F0%9F%8E%B5%20Lyrics%20Project)|
 
-## 🏆 Data Projects
+## Data Projects
+
+[회고](https://velog.io/@m0oon0/220310)
+[회고](https://velog.io/@m0oon0/220506)
 
 ---
 
@@ -30,9 +33,5 @@
 
 ---
 
-## Paper reviews on Deep Learning
-
-[📰](https://github.com/m0oon0/Data-Science/blob/main/models.md)
-
-
+## Paper reviews
 
