@@ -7,13 +7,13 @@
 
 ### 👀 Data Visualization
 
-### 🚓 Geospatial data
+### 📍 Geospatial data
 
-### Process Mining 
+### 🔎 Process Mining 
 
 ---
 
-## 🔦 Data Mining
+## Data Mining
 
 |||
 |---|---|
@@ -30,8 +30,3 @@
 ## Studies
 
 ### ML Ops [📁](https://github.com/m0oon0/Data-Science/tree/main/%E2%9A%99%20ML%20Ops) 
-
----
-
-## Paper reviews
-
